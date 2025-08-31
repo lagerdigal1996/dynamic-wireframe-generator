@@ -17,5 +17,9 @@
   "devDependencies": {
     "webpack-dev-server": "^4.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/dynamic-wireframe-generator.git"
+  },
   "license": "MIT"
 }
