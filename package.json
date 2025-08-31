@@ -1,7 +1,7 @@
 {
   "name": "dynamic-wireframe-generator",
   "version": "1.0.0",
-  "description": "A tool for creating wireframes with customizable templates and drag-and-drop components in a web environment.",
+  "description": "A powerful tool for creating customizable wireframes using templates and drag-and-drop components in a web environment.",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --mode development",
